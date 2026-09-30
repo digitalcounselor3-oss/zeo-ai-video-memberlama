@@ -1,0 +1,8 @@
+{
+  "name": "Remix MASTER ZEO",
+  "description": "Aplikasi generator prompt video promosi \u0026 animasi untuk affiliate dan seller marketplace berbasis gambar referensi produk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
